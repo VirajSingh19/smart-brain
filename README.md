@@ -1,1 +1,1 @@
-# smartbrain-api
+# api for face recognition app
